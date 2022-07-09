@@ -3,5 +3,4 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/petitcerisie/public_html/
     - /bin/cp -R teste $DEPLOYPATH
-    - /bin/touch norton.txt $DEPLOYPATH
 
